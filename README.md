@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+
+I am Anke and I am currently learning how to code in Python. I follow a "100-days-of-code"-course from udemy.com and will use GitHub for now to share my solutions to the coding exercises.
+
+
 
 <!--
 **ankabaena/ankabaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
