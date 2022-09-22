@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am Anke and I am currently learning how to code in Python. I follow a "100-days-of-code"-course from udemy.com and use GitHub to share my solutions to the coding exercises.
+I am Anke and I am currently learning Python. I follow an online "100-days-of-code"-course and am using GitHub to organize and to share my solutions to the coding exercises.
 
 
 
