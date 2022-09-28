@@ -1,6 +1,8 @@
 ### Hi there!
 
-I am Anke and I am currently learning Python. I follow an online "100-days-of-code"-course and am using GitHub to organize and to share my solutions to the coding exercises.
+I am Anke and I am currently learning Python. I follow an online "100-days-of-code"-course and am using GitHub to organize and share my solutions to the coding exercises. 
+
+I am also working on a little math training program for my daughter so that she can practice her multiplication tables: "Mathetrainer". Partly in German.  
 
 
 
